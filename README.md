@@ -1,3 +1,3 @@
 # practise
 hello
-this is practise 
+this is practise repo
